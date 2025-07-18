@@ -1,22 +1,21 @@
-# RetailSalesPipeline
+# EcommercePipeline
+
+## E-Commerce Analytics Dashboard
 
 
-This project demonstrates an end-to-end cloud-based data analytics pipeline using Google Cloud Platform (GCP). It ingests raw retail sales data from Cloud Storage, processes it using BigQuery, and visualizes the insights in Looker Studio. The goal of this project is to analyze transactional retail sales data and generate actionable insights for business decision-making.
-
+Built a full-stack analytics project using Python, BigQuery, and Looker Studio to turn raw e-commerce data into executive-level insights. This project shows how I deliver business-ready insights by combining data engineering, analytics, and cloud-based visualization.
 
 ## Tech Stack
-
-- Google Cloud Storage – for raw data storage
-- BigQuery – for data warehousing and transformations (ELT)
-- SQL – for building analytical models
+- Cleaned and prepared complex datasets in Python
+- Stored and queried data using Google Cloud Storage + BigQuery
 - Looker Studio – for creating interactive dashboards
   
 ## Dataset
 
-Source: https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
-
+Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data?select=olist_customers_dataset.csv
+https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist?select=olist_closed_deals_dataset.csv
 
 ## Dashboard
 
-https://lookerstudio.google.com/s/pRr2ep6TBwg
+https://lookerstudio.google.com/reporting/bbef79b6-3eeb-4842-9997-f741e3261dcb
 
